@@ -1,0 +1,39 @@
+.header{
+	background-color:black;
+	color:orange;
+	text-align:center;
+	padding:15px;
+}
+.games{
+	background-color:red;
+	overflow:hidden;
+}
+.games a{
+	float:right;
+	display:block;
+	color:pink;
+	text-align:right;
+	padding:10px;
+}
+.games a:hover{
+	background:green;
+	color:aqua;
+}
+.gameA,.gameB,.gameC{
+	float:left;
+	width:30%;
+	color:black;
+	padding:16px;
+}
+.game{
+	padding:15px;
+	text-align:right;
+}
+.game a{
+	background-color:black;
+	color:red;
+}
+h1{
+	color:yellow;
+	text-shadow:3px 3px 3px red;
+}
